@@ -1,27 +1,61 @@
-<h1 align="center">Hi there! | Merhaba! Ben Enes</h1>
-<h3 align="center">Teknolojiyle iç içe olmayı seven, sürekli öğrenmeye açık ve projeler üretmekten keyif alan bir geliştiriciyim.</h3>
+<div align="center">
 
-- 💻 Küçüklüğümden beri bilgisayarlara olan ilgim zamanla kodlamaya evrildi. [darkknightmedia](http://darkknightmedia.com.tr/)
+# Merhaba, Ben Enes 👋
 
-- 🐍 Python kullanarak otomasyonlar, botlar ve kişisel araçlar geliştiriyorum. **darkknightmedia**
+**Full-Stack Developer & Founder @ DarkKnightMedia**
 
-- 🎨 Günümüzde HTML, CSS ve JavaScript ile kullanıcı dostu, modern arayüzler geliştiriyorum. [darkknightmedia](http://darkknightmedia.com.tr/)
+*Teknolojiyle iç içe, projeler üreterek büyüyen bir geliştirici.*
 
-- ⚡ Frontend tarafında performans ve kullanıcı deneyimine önem veriyorum. [darkknightmedia](http://darkknightmedia.com.tr/)
+[![Website](https://img.shields.io/badge/darkknightmedia.com.tr-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://darkknightmedia.com.tr/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://enescetinblog.netlify.app/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescetinmehmet14@gmail.com)
 
-- 📚 Sürekli öğrenmeye açık olup yeni teknolojileri aktif olarak takip ediyorum. [https://enescetinblog.netlify.app/](https://enescetinblog.netlify.app/)
+</div>
 
-- DarkKnightMedia altında projeler üreterek kendimi her gün geliştiriyorum. [https://enescetinblog.netlify.app/](https://enescetinblog.netlify.app/)
+---
 
-- 🤖 Discord botları ile moderasyon ve eğlence sistemleri tasarlıyorum. **darkknightmedia**
+## 🧑‍💻 Hakkımda
 
-- Minecraft sunucuları için plugin, sistem ve oyun mekanikleri geliştiriyorum. **enescetinmehmet14@gmail.com**
+Küçüklüğümden beri bilgisayarlara olan ilgim zamanla kodlamaya evrildi. Şu an **DarkKnightMedia** çatısı altında çeşitli projeler üretiyorum; otomasyon araçlarından Discord botlarına, modern web arayüzlerinden Minecraft plugin geliştirmeye kadar geniş bir yelpazede çalışıyorum. Her gün bir şeyler öğrenmeyi ve üretime dönüştürmeyi ilke edindim.
 
-- 🏴 DarkKnightMedia – Founder (2025–) [https://enescetinblog.netlify.app/](https://enescetinblog.netlify.app/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 Neler Yapıyorum?
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🐍 **Python** ile otomasyon, bot ve kişisel araçlar geliştiriyorum
+- 🎨 **HTML / CSS / JS** ile modern, kullanıcı dostu arayüzler tasarlıyorum
+- 🤖 **Discord botları** ile moderasyon ve eğlence sistemleri kuruyorum
+- ⛏️ **Minecraft** sunucuları için plugin, sistem ve oyun mekaniği yazıyorum
+- ⚡ Frontend performansı ve kullanıcı deneyimine önem veriyorum
+- 🏴 **DarkKnightMedia** – Founder *(2025 –)*
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Her satır kod, daha iyi bir yarın için."*
+
+</div>
