@@ -47,8 +47,8 @@ Küçüklüğümden beri bilgisayarlara olan ilgim zamanla kodlamaya evrildi. Ş
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkknightlag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkknightlag&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
