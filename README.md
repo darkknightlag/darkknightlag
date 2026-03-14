@@ -1,22 +1,17 @@
 <div align="center">
-
 # Merhaba, Ben Enes 👋
-
-**Full-Stack Developer & Founder @ DarkKnightMedia**
-
+**Full-Stack Developer & Founder @ Valtura**
 *Teknolojiyle iç içe, projeler üreterek büyüyen bir geliştirici.*
-
-[![Website](https://img.shields.io/badge/darkknightmedia.com.tr-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://darkknightmedia.com.tr/)
+[![Website](https://img.shields.io/badge/valtura.com.tr-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://valtura.com.tr/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://enescetinblog.netlify.app/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescetinmehmet14@gmail.com)
-
 </div>
 
 ---
 
 ## 🧑‍💻 Hakkımda
 
-Küçüklüğümden beri bilgisayarlara olan ilgim zamanla kodlamaya evrildi. Şu an **DarkKnightMedia** çatısı altında çeşitli projeler üretiyorum; otomasyon araçlarından Discord botlarına, modern web arayüzlerinden Minecraft plugin geliştirmeye kadar geniş bir yelpazede çalışıyorum. Her gün bir şeyler öğrenmeyi ve üretime dönüştürmeyi ilke edindim.
+Küçüklüğümden beri bilgisayarlara olan ilgim zamanla kodlamaya evrildi. Şu an **Valtura** çatısı altında çeşitli projeler üretiyorum; otomasyon araçlarından Discord botlarına, modern web arayüzlerinden Minecraft plugin geliştirmeye kadar geniş bir yelpazede çalışıyorum. Her gün bir şeyler öğrenmeyi ve üretime dönüştürmeyi ilke edindim.
 
 ---
 
@@ -27,7 +22,7 @@ Küçüklüğümden beri bilgisayarlara olan ilgim zamanla kodlamaya evrildi. Ş
 - 🤖 **Discord botları** ile moderasyon ve eğlence sistemleri kuruyorum
 - ⛏️ **Minecraft** sunucuları için plugin, sistem ve oyun mekaniği yazıyorum
 - ⚡ Frontend performansı ve kullanıcı deneyimine önem veriyorum
-- 🏴 **DarkKnightMedia** – Founder *(2025 –)*
+- 🏴 **Valtura** – Founder *(2025 –)*
 
 ---
 
