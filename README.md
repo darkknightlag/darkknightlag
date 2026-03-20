@@ -102,7 +102,7 @@ Her gün bir şeyler öğrenmeyi ve bunu ürüne dönüştürmeyi ilke edindim.
 
 Bir proje fikrin mi var, iş birliği yapmak mı istiyorsun ya da sadece merhaba mı demek istiyorsun?
 
-📬 **[enescetinmehmet14@gmail.com](mailto:enescetinmehmet14@gmail.com)**
+📬 **[info@valtura.com.tr](mailto:info@valtura.com.tr)**
 🌐 **[valtura.com.tr](http://valtura.com.tr/)**
 ✍️ **[Blog](https://enescetinblog.netlify.app/)**
 
