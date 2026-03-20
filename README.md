@@ -78,9 +78,8 @@ Her gün bir şeyler öğrenmeyi ve bunu ürüne dönüştürmeyi ilke edindim.
 
 -----
 
-## 📌 Öne Çıkan Projeler
+## 📌 Öne Çıkan 
 
-> ⚠️ *Projelerini buraya ekleyebilirsin — aşağıdaki format ile.*
 
 <!--
 [![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=darkknightlag&repo=REPO_ADI&theme=tokyonight&hide_border=true)](https://github.com/darkknightlag/REPO_ADI)
