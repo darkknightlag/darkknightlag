@@ -19,7 +19,7 @@
 
 [![Website](https://img.shields.io/badge/valtura.com.tr-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://valtura.com.tr/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://enescetinblog.netlify.app/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescetinmehmet14@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@valtura.com.tr)
 
 </div>
 
