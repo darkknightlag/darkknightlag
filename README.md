@@ -11,7 +11,7 @@
 
 # Merhaba, ben Enes 👋
 
-**Full-Stack Developer & Founder @ Valtura**
+** Founder @ Valtura**
 
 *Teknolojiyle iç içe, projeler üreterek büyüyen bir geliştirici.*
 
