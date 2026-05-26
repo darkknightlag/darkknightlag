@@ -18,7 +18,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/valtura.com.tr-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://valtura.com.tr/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://enescetinblog.netlify.app/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://mehmetenescetin.com.tr)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@valtura.com.tr)
 
 </div>
@@ -103,7 +103,7 @@ Bir proje fikrin mi var, iş birliği yapmak mı istiyorsun ya da sadece merhaba
 
 📬 **[info@valtura.com.tr](mailto:info@valtura.com.tr)**
 🌐 **[valtura.com.tr](http://valtura.com.tr/)**
-✍️ **[Blog](https://enescetinblog.netlify.app/)**
+✍️ **[Blog](https://mehmetenescetin.com.tr)**
 
 -----
 
